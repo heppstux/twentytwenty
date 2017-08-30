@@ -1,6 +1,6 @@
 {
   "name": "zurb-twentytwenty",
-  "version": "0.1.0",
+  "version": "0.1.0-cz",
   "description": "Zurb TwentyTwenty plugin",
   "main": "index.js",
   "scripts": {

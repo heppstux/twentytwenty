@@ -1,3 +1,5 @@
+import jQuery from 'jquery'
+
 // DOM.event.move
 //
 // 2.0.0
